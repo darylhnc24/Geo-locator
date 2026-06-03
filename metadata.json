@@ -1,0 +1,6 @@
+{
+  "name": "Herbenna Store Locator",
+  "description": "Modern Geo Page Funnel and store locator for Herbenna, featuring interactive maps and Philippines store branches.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
